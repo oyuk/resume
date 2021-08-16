@@ -28,7 +28,7 @@
 ## 職歴
 ### 2018/2 ~ 現在 株式会社AppBrew
 - CGMサービスの開発
-  - iOS/Android/Rails
+  - iOS/Android/Rails/JavaScript/SQL
   - 必要に応じてiOS、Android、フロントエンド、バックエンドの開発を行う。toC,toB向けどちらのチームにも所属した経験があり、デザイナーやビジネスサイドのメンバーと協力し試作提案、実装、検証を担当。
 
 ### 2016/4 ~ 2018/1 Supership株式会社
