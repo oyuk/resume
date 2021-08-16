@@ -22,7 +22,7 @@
 
 |  概要 |  詳細  |
 | ---- | ---- |
-| 言語 | Swift, Kotlin, Ruby |
+| 言語 | Swift, Kotlin, Ruby, JavaScript |
 | フレームワーク、プラットフォーム| iOS, Android, Ruby on Rails |
 
 ## 職歴
