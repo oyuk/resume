@@ -7,6 +7,7 @@
 | ---- | ---- |
 | Github | https://github.com/oyuk
 | ブログ  | https://oyuk.blog/ 
+| Speaker Deck | https://speakerdeck.com/oyuk
 
 ## 学歴、職歴
 
