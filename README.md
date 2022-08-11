@@ -34,7 +34,7 @@
 | 言語 | Swift, Kotlin, Ruby, Rust, JavaScript, SQL |
 | フレームワーク、プラットフォーム| iOS, Android, Ruby on Rails, actix-web|
 
-## 職歴
+## 業務経験
 
 ### 2021/10 ~ 2022/9 現在 株式会社フィードフォース
 - toB向けのサービス開発を担当
