@@ -32,14 +32,15 @@
 
 |  概要 |  詳細  |
 | ---- | ---- |
-| 言語 | Swift, Kotlin, Ruby, Rust, JavaScript, SQL |
-| フレームワーク、プラットフォーム| iOS, Android, Ruby on Rails, actix-web|
+| 言語 | Swift, Kotlin, Ruby, Rust, JavaScript, SQL, Dart |
+| フレームワーク、プラットフォーム| iOS, Android, Ruby on Rails, actix-web, Flutter|
 
 ## 業務経験
 
 ### 2022/10 ~ 現在 株式会社Relic
 - toC向けのサービス開発を担当
-  - iOS/Android
+  - iOS/Android/Flutter
+- スマホアプリ開発組織の立ち上げ、マネージャーを担当
 
 ### 2021/10 ~ 2022/9 株式会社フィードフォース
 - toB向けのサービス開発を担当
