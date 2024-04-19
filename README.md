@@ -1,4 +1,4 @@
-2022/10/21時点
+2024/4/19時点
 
 # Resume
 生年月日: 1991年11月19日
@@ -32,14 +32,14 @@
 
 |  概要 |  詳細  |
 | ---- | ---- |
-| 言語 | Swift, Kotlin, Ruby, Rust, JavaScript, SQL, Dart |
-| フレームワーク、プラットフォーム| iOS, Android, Ruby on Rails, actix-web, Flutter|
+| 言語 | Swift, Kotlin, Ruby, Rust, JavaScript, SQL, Dart, TypeScript |
+| フレームワーク、プラットフォーム| iOS, Android, Ruby on Rails, actix-web, Flutter, Next.js|
 
 ## 業務経験
 
 ### 2022/10 ~ 現在 株式会社Relic
 - toC向けのサービス開発を担当
-  - iOS/Android/Flutter
+  - iOS/Android/Flutter/Next.js
 - スマホアプリ開発組織のリーダーを担当
 
 ### 2021/10 ~ 2022/9 株式会社フィードフォース
